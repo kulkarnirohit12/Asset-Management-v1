@@ -105,13 +105,21 @@ A full-stack **Asset Management System** built using the **MERN stack** to manag
 ## 📌 How to Run
 
 ### Backend
-bash
+```bash
 cd backend
 npm install
 node server.js
 
-### Frontend
-bash
 cd frontend
 npm install
 npm run dev
+
+
+---
+```
+## ✅ Step 7: Push README to GitHub
+
+```bash
+git add README.md
+git commit -m "Add README documentation"
+git push
